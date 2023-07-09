@@ -52,7 +52,7 @@ formEl.addEventListener('submit', async (e) => {
     console.log(currentPage);
   } catch (error) {
     console.log(error);
-    // Handle error appropriately
+    
   }
 });
 
@@ -103,6 +103,6 @@ btnLoadMore.addEventListener('click', async () => {
     console.log(currentPage);
   } catch (error) {
     console.log(error);
-    // Handle error appropriately
+    /
   }
 });
